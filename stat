@@ -1,0 +1,14 @@
+[
+    {
+        "SemoofHub (Free)": {
+            "version": "1.0.0",
+            "status": "Working"
+        }
+    },
+    {
+        "SemoofHub (Premium)": {
+            "version": "1.0.0",
+            "status": "Not working"
+        }
+    }
+]
